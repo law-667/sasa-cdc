@@ -5,7 +5,7 @@
 
 ⭐ À propos de moi
 - 🪁 Je me surnome Iroo
-- 🪐 J'apprends actuellement <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> Javascript </a>
+- 🪐 J'apprends actuellement <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">  <b>Javascript<b/>  </a> et <a href="https://developer.mozilla.org/en-US/docs/Glossary/SQL" target="_blank"> <b>mySQL<b/> </a>
 - 📫 Comment me joindre: <a href="https://discord.gg/RcPEHjAE" target="_blank"> !" Iroo ♧#8720 </a> (discord)
 
 
