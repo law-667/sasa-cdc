@@ -1,6 +1,6 @@
-### Salut tout le monde ! :)
+## Iroo Profile
 
-<a href="https://cdn.discordapp.com/avatars/553990268878061598/a_e213629db286fbbe0b159a6f0497c52a.gif?size=1024"><img src="https://cdn.discordapp.com/avatars/553990268878061598/a_e213629db286fbbe0b159a6f0497c52a.gif?size=1024"></a>
+![Iroo github stats](https://github-readme-stats.vercel.app/api?username=sasa-cdc&show_icons=true&theme=dracula)
 
 
 ⭐ À propos de moi
