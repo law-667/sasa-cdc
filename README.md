@@ -1,7 +1,7 @@
 ## Iroo Profile
 
 ![Iroo github stats](https://github-readme-stats.vercel.app/api?username=sasa-cdc&show_icons=true&theme=dracula)
-![Stars](https://github-readme-stats.vercel.app/api?username=sasa-cdc&title_color=fff&text_color=ffffff&bg_color=000000&include_all_commits=false&hide_border=true&hide_title=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasa-cdc&layout=compact&title_color=fff&text_color=ffffff&bg_color=000000&hide_border=true)
 
  ⭐ À propos de moi
 -  Je me surnome Iroo
