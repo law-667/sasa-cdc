@@ -2,7 +2,7 @@
 ![sasa-cdc stats](https://github-readme-stats.vercel.app/api?username=sasa-cdc&show_icons=true&theme=tokyonight)
 
 ```js
-const Fnr = {
+const Iroo = {
     name: "Wassim",
     age: 13,
     from: "Toulouse",
