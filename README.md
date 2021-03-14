@@ -1,23 +1,23 @@
 
-![sasa-cdc stats](https://github-readme-stats.vercel.app/api?username=sasa-cdc&show_icons=true&theme=tokyonight)
+![law667-alpha stats](https://github-readme-stats.vercel.app/api?username=law667-alpha-cdc&show_icons=true&theme=tokyonight)
 
 ```js
-const Iroo = {
-    name: "Wassim",
+const Law = {
+    name: "Luka",
     age: 13,
     from: "Toulouse",
-    Discord: "Wassim.#0002",
+    Discord: "Law667#6210",
     technologies: {
-        backend: ["NodeJS", "express", "batch"],
+        backend: ["NodeJS", "express", "vb"],
         database: ["Mysql", "MongoDB"],
     },
-    languages: ["Python", "HTML", "CSS", "JavaScript"]
+    languages: ["Java MC", "PhP", "HTML", "CSS", "JavaScript"]
 };
 ```
 
-<a href="https://github.com/sasa-cdc?tab=followers">
-  <img src="https://img.shields.io/github/followers/sasa-cdc">
+<a href="https://github.com/law667-alpha?tab=followers">
+  <img src="https://img.shields.io/github/followers/law667-alpha">
 </a>
-<a href="https://github.com/sasa-cdc">
-   <img src="https://komarev.com/ghpvc/?username=sasa-cdc">
+<a href="https://github.com/law667-alpha">
+   <img src="https://komarev.com/ghpvc/?username=law66-alpha">
 </a>
